@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathiksha3&label=Profile%20views&color=0e75b6&style=flat" alt="prathiksha3" /> </p>
 
-- 🌱 I’m currently learning **👨‍🎓 Third-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer**
+- 🌱 I’m currently learning **👨‍🎓 Fourth-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer**
 
 - 💬 Ask me about **📚 Passionate about learning and diving into the world of technology.**
 
