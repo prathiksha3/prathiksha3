@@ -1,6 +1,6 @@
 [![MasterHead](https://rhamadhanromly.blog.uma.ac.id/wp-content/uploads/sites/804/2023/04/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
 <h1 align="center">Hi 👋, I'm Prathiksha A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathiksha3&label=Profile%20views&color=0e75b6&style=flat" alt="prathiksha3" /> </p>
